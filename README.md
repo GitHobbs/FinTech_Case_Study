@@ -72,7 +72,27 @@ When I'm thinking about recommendations for this protocol, I don't necessarily t
 
 Since it is very likely that synths will be considered securities by the SEC, they need to work hand in hand with US lawmakers on creating this regulatory framework and adhering to it in advance so as to avoid scrutiny.  The major financial institutions are waiting for the green light from regulators before they will even consider purusing Decentralized Finance protocols as a means to increase efficiency and cut costs.  The good news is that many institutions are aware of the benefits decentralized financial applications can provide.  The bad news is that we could be months if not years away from reliable legal framework with which these protocols can comply, and much can change between now and then.<br><br>
 
-The landscape of DeFi and derivatives protocols changes almost daily and the future is murky at best.  While this can be fun for those who are interested in tracking the rapid innovation in this massively distruptive environment, it is impossible to know who will come out on top.  However, Synthetix has the technology, the leadership and the first-mover advantage to change the way derivative insturments are traded well into the future.
+The landscape of DeFi and derivatives protocols changes almost daily and the future is murky at best.  While this can be fun for those who are interested in tracking the rapid innovation in this massively distruptive environment, it is impossible to know who will come out on top.  However, Synthetix has the technology, the leadership and the first-mover advantage to change the way derivative insturments are traded well into the future.<br><br>
+
+## Sources<br><br>
+
+1.  Synthetix Lite Paper<br>
+https://docs.synthetix.io/litepaper/<br>
+
+2.  The Defiant.io<br>https://thedefiant.io/what-is-synthetix<br>
+3.  Messari.io<br>https://messari.io/report/synthetix-ecosystem-overview<br>https://messari.io/asset/synthetix/metrics/all<br>
+4.  Cryptopolitan<br>https://www.cryptopolitan.com/snx-price-prediction/<br>
+5.  CryptoNews.com<br>https://cryptonews.com/exclusives/decentralized-derivatives-trading-platforms.htm<br>
+6. Investopedia<br>https://www.investopedia.com/terms/d/derivative.asp<br>
+7.  CryptoFees.info<br>https://cryptofees.info/<br>
+8. Crunchbase<br>https://www.crunchbase.com/organization/havven/company_financials<br>
+9. Golden.com<br>https://golden.com/wiki/Kain_Warwick-<br>
+10. Fortune.com<br>https://fortune.com/2021/07/06/fake-tesla-apple-stocks-trade-blockchains-crypto-exchange/<br>
+11. Medium.com<br>https://medium.com/coinmonks/differences-from-synthetix-and-mirror-protocol-9b729ff0db90<br>
+12.  Coinbase.com<br>https://www.coinbase.com/blog/around-the-block-8-the-promise-and-potential-of-synthetic-assets<br>
+13. CryptoBriefing.com<br>https://cryptobriefing.com/synthetix-surges-70-trading-volumes-explode/   
+
+
 
  
 
